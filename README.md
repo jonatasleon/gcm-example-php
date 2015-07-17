@@ -1,3 +1,3 @@
 gcm-example-php
 ==
-Exemplo de formulário utilizando GCM (Google Cloud Messaging)
+Exemplo demonstrando o uso do GCM (Google Cloud Messanging) em PHP
